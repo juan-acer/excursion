@@ -26,9 +26,16 @@ body {
 
  /* LINKS */
 
- .link--cta {
+.link--cta {
      font-size: 16px;
      color: aquamarine;
  }
+
+ /* FOOTER */ 
   
+.footer--copyright {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
   
